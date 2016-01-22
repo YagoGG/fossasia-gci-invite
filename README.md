@@ -1,4 +1,4 @@
-# Invite GCI students to FOSSASIA Github team.
+# Invite GCI students to FOSSASIA Github team [![Build Status](https://travis-ci.org/YagoGG/fossasia-gci-invite.svg?branch=feature%2Ftravis)](https://travis-ci.org/YagoGG/fossasia-gci-invite)
 This application is used by FOSSASIA mentors to send invitations to FOSSASIA GCI students.
 
 ## Running locally for development
