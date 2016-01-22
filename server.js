@@ -2,7 +2,7 @@ var http = require('http');
 var dispatcher = require('httpdispatcher');
 var qs = require('querystring');
 
-var config = require('./config.js');
+var config = require('./config.sample.js');
 var logic = require('./logic.js');
 
 var host = config.host;

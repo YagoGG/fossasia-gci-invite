@@ -2,7 +2,7 @@ var request = require('request');
 var url = require('url');
 var uuid = require('node-uuid');
 
-var config = require('./config.js');
+var config = require('./config.sample.js');
 
 var state = uuid.v4(); //Random string
 
